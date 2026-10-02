@@ -3,7 +3,7 @@
 º Melhorar a justificativa;
 º Dar enfase ao problema e o que estamos solucionando.
 2 - Colocar as páginas dos livros nas referencias:
-º (PRESSMAN; MAXIM, p. 110)
+º (PRESSMAN; MAXIM, 2021, p. 110)
 3 - Subir as atas das reuniões ao github:
 º Pasta docs
 4 - Expandir as funções dos integrantes no cronograma (inserir pesquisas postadas na equipe do teams)
