@@ -10,3 +10,4 @@
 5 - Configurar as normas abnt nos trabalhos posteriores.
 6 - Se atentar aos erros de português, em especial vírgulas e palavras mal colocadas.
 7 - Enxugar referencial teorico, objetivo
+8 - Colocar atas de reuniões como apendices no artigo
